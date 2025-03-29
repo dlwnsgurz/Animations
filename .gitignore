@@ -2,6 +2,9 @@
 *.xcworkspace
 *.xcuserstate
 *.xcuserdata/
+*.xcassets/
+Animation/Preview Content/
+
 DerivedData/
 *.lock
 

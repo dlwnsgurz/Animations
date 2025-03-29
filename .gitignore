@@ -4,6 +4,7 @@
 *.xcuserdata/
 *.xcassets/
 Animation/Preview Content/
+Animation/AnimationApp.swift
 *.xcodeproj
 
 DerivedData/

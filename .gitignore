@@ -1,0 +1,25 @@
+# Xcode 관련 파일 무시
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+DerivedData/
+*.lock
+
+# 빌드된 파일 무시
+build/
+*.ipa
+
+# Swift Package Manager 관련 파일 무시
+/.swiftpm/
+/Packages/
+
+# CocoaPods 관련 파일 무시
+Pods/
+Podfile.lock
+
+# Carthage 관련 파일 무시
+Carthage/
+Carthage/Checkouts/
+
+# macOS에서 자동 생성되는 파일 무시
+.DS_Store
